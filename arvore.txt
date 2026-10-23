@@ -1,0 +1,20 @@
+agrocal-solo/
+├── README.md
+├── .gitignore
+├── docs/
+│   └── escopo.md
+├── frontend/
+│   ├── index.html
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── main.js
+│   └── assets/
+│       └── logo.svg                 [posterior, se necessário]
+├── experimentos/                    [posterior, se necessário]
+│   └── analise_solo.ipynb
+└── backend/                         [posterior, se necessário]
+    ├── app.py
+    ├── requirements.txt
+    └── tests/
+        └── test_calculos.py
